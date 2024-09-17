@@ -117,7 +117,7 @@ const ToDo = () => {
 //     </div>
 //   )
     <div style={{
-        backgroundImage: `url('./src/assets/star.jpg')`,
+        backgroundImage: `url('./assets/star.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
