@@ -1,5 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
+import star from './src/assets/star.jpg'
 
 const ToDo = () => {
     // holding the task
@@ -117,7 +118,7 @@ const ToDo = () => {
 //     </div>
 //   )
     <div style={{
-        backgroundImage: `url('./assets/star.jpg')`,
+        backgroundImage: `url('star')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
